@@ -43,14 +43,6 @@ Sou engenheira de formação e professora por vocação — e as duas coisas pux
 para o mesmo sítio: perceber como algo funciona por dentro e depois explicá-lo
 de forma que outra pessoa consiga construir sozinha.
 
-Trabalho entre **software, dados e sistemas embebidos**, mas o fio condutor é
-sempre o mesmo: pegar num problema real, montar o projeto mais pequeno que o
-resolve, e transformar esse caminho em material que se possa ensinar.
-
-Hoje o foco está na **robótica** e na **programação para ensino** — placas,
-sensores, Edge AI e jogos usados como porta de entrada para quem está a começar.
-Cada repositório aqui é, ao mesmo tempo, um projeto e uma aula.
-
 ```
 > cat filosofia.txt
 
