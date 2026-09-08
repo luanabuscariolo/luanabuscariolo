@@ -1,22 +1,26 @@
-<p align="center">
-  <img src="assets/hero-coding.png" width="620" alt="Luana Buscariolo a programar — pixel art em tons de verde">
-</p>
-
-```
- ██╗     ██╗   ██╗ █████╗ ███╗   ██╗ █████╗
- ██║     ██║   ██║██╔══██╗████╗  ██║██╔══██╗
- ██║     ██║   ██║███████║██╔██╗ ██║███████║
- ██║     ██║   ██║██╔══██║██║╚██╗██║██╔══██║
- ███████╗╚██████╔╝██║  ██║██║ ╚████║██║  ██║
- ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  
+<table>
+  <tr>
+    <td>
+      <pre>
+██╗     ██╗   ██╗ █████╗ ███╗   ██╗ █████╗
+██║     ██║   ██║██╔══██╗████╗  ██║██╔══██╗
+██║     ██║   ██║███████║██╔██╗ ██║███████║
+██║     ██║   ██║██╔══██║██║╚██╗██║██╔══██║
+███████╗╚██████╔╝██║  ██║██║ ╚████║██║  ██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  
 ██████╗ ██╗   ██╗███████╗ ██████╗ █████╗ ██████╗ ██╗ ██████╗ ██╗      ██████╗
 ██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗██╔══██╗██║██╔═══██╗██║     ██╔═══██╗
 ██████╔╝██║   ██║███████╗██║     ███████║██████╔╝██║██║   ██║██║     ██║   ██║
 ██╔══██╗██║   ██║╚════██║██║     ██╔══██║██╔══██╗██║██║   ██║██║     ██║   ██║
 ██████╔╝╚██████╔╝███████║╚██████╗██║  ██║██║  ██║██║╚██████╔╝███████╗╚██████╔╝
 ╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝ ╚═════╝
- 
-```
+      </pre>
+    </td>
+    <td>
+      <img src="assets/hero-coding.png" width="400" alt="Luana Buscariolo a programar">
+    </td>
+  </tr>
+</table>
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -177,32 +181,31 @@ CURIOUS MIND
 > teacher --mode=on
 ```
 
-<p align="center">
-  <img src="assets/hero-teaching.png" width="620" alt="Luana a dar formação de robótica — pixel art em tons de verde">
-</p>
-
-```
-┌─ ENSINAR ────────────┬─ INSPIRAR ───────────┐
-│ Partilhar o que sei  │ Mostrar que é        │
-│ é o que fixa o que   │ possível construir   │
-│ aprendi.             │ com pouco.           │
-├─ CONSTRUIR ──────────┼─ APRENDER ───────────┤
-│ Projetos com as mãos │ Todos os dias,       │
-│ e com propósito.     │ com intenção.        │
-└──────────────────────┴──────────────────────┘
-```
+<table>
+  <tr>
+    <td>
+      <pre>
+        ┌─ ENSINAR ────────────┬─ INSPIRAR ───────────┐
+        │ Partilhar o que sei  │ Mostrar que é        │
+        │ é o que fixa o que   │ possível construir   │
+        │ aprendi.             │ com pouco.           │
+        ├─ CONSTRUIR ──────────┼─ APRENDER ───────────┤
+        │ Projetos com as mãos │ Todos os dias,       │
+        │ e com propósito.     │ com intenção.        │
+        └──────────────────────┴──────────────────────┘
+      </pre>
+    </td>
+    <td>
+      <p align="center">
+        <img src="assets/hero-teaching.png" width="620" alt="Luana a dar formação de robótica — pixel art em tons de verde">
+      </p>
+    </td>
+  </tr>
+</table>
 
 O **[Bit Workshop](https://luanabuscariolo.github.io/bit-workshop/)** é onde
 junto tudo isto: materiais abertos de robótica, IA e programação, escritos para
 quem nunca tocou numa placa e quer sair da sessão com algo a funcionar.
-
-
-
-
-
-
-
-
 
 ---
 
