@@ -129,9 +129,9 @@ CURIOUS MIND
       <sub><code>ESP32</code> <code>C</code> <code>Python</code></sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/luanabuscariolo/bit-workshop">
+      <a href="https://luanabuscariolo.github.io/bitvolts-lab/">
         <img src="assets/proj-bit-workshop.png" width="150" alt="Bit Workshop"><br>
-        <b>Bit Workshop</b>
+        <b>BitVolts Lab</b>
       </a><br>
       <sub>Conteúdo educativo sobre robótica,<br>IA e programação.</sub><br><br>
       <sub><code>Docusaurus</code> <code>React</code> <code>Markdown</code></sub>
