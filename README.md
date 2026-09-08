@@ -203,7 +203,7 @@ CURIOUS MIND
   </tr>
 </table>
 
-O **[Bit Workshop](https://luanabuscariolo.github.io/bit-workshop/)** é onde
+O **[BitVolts Lab](https://luanabuscariolo.github.io/bitvolts-lab/)** é onde
 junto tudo isto: materiais abertos de robótica, IA e programação, escritos para
 quem nunca tocou numa placa e quer sair da sessão com algo a funcionar.
 
