@@ -8,8 +8,14 @@
  ██║     ██║   ██║███████║██╔██╗ ██║███████║
  ██║     ██║   ██║██╔══██║██║╚██╗██║██╔══██║
  ███████╗╚██████╔╝██║  ██║██║ ╚████║██║  ██║
- ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-   B  U  S  C  A  R  I  O  L  O
+ ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  
+██████╗ ██╗   ██╗███████╗ ██████╗ █████╗ ██████╗ ██╗ ██████╗ ██╗      ██████╗
+██╔══██╗██║   ██║██╔════╝██╔════╝██╔══██╗██╔══██╗██║██╔═══██╗██║     ██╔═══██╗
+██████╔╝██║   ██║███████╗██║     ███████║██████╔╝██║██║   ██║██║     ██║   ██║
+██╔══██╗██║   ██║╚════██║██║     ██╔══██║██╔══██╗██║██║   ██║██║     ██║   ██║
+██████╔╝╚██████╔╝███████║╚██████╗██║  ██║██║  ██║██║╚██████╔╝███████╗╚██████╔╝
+╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝ ╚═════╝
+ 
 ```
 
 ```
@@ -190,20 +196,13 @@ O **[Bit Workshop](https://luanabuscariolo.github.io/bit-workshop/)** é onde
 junto tudo isto: materiais abertos de robótica, IA e programação, escritos para
 quem nunca tocou numa placa e quer sair da sessão com algo a funcionar.
 
----
 
-```
-> stats --github
-```
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luanabuscariolo&show_icons=true&hide_border=true&bg_color=021D0C&title_color=95B427&text_color=7A9A22&icon_color=4A7A1A&hide_title=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanabuscariolo&layout=compact&hide_border=true&bg_color=021D0C&title_color=95B427&text_color=7A9A22&hide_title=true" alt="Top Languages">
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=luanabuscariolo&hide_border=true&background=021D0C&stroke=4A7A1A&ring=95B427&fire=95B427&currStreakLabel=95B427&sideLabels=7A9A22&currStreakNum=95B427&sideNums=7A9A22&dates=4A7A1A" height="165" alt="Streak">
-</p>
+
+
+
+
 
 ---
 
