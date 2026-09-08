@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/luana-buscariolo"><img src="https://img.shields.io/badge/LINKEDIN-27520F?style=flat-square&logo=linkedin&logoColor=95B427&labelColor=021D0C" alt="LinkedIn"></a>
   <a href="https://github.com/luanabuscariolo"><img src="https://img.shields.io/badge/GITHUB-27520F?style=flat-square&logo=github&logoColor=95B427&labelColor=021D0C" alt="GitHub"></a>
-  <a href="https://luanabuscariolo.github.io/bit-workshop/"><img src="https://img.shields.io/badge/BIT_WORKSHOP-27520F?style=flat-square&logo=readthedocs&logoColor=95B427&labelColor=021D0C" alt="Bit Workshop"></a>
+  <a href="https://luanabuscariolo.github.io/bitvolts-lab/"><img src="https://img.shields.io/badge/BIT_WORKSHOP-27520F?style=flat-square&logo=readthedocs&logoColor=95B427&labelColor=021D0C" alt="BitVolts Lab"></a>
   <a href="https://www.youtube.com/@luanabuscariolo"><img src="https://img.shields.io/badge/YOUTUBE-27520F?style=flat-square&logo=youtube&logoColor=95B427&labelColor=021D0C" alt="YouTube"></a>
   <a href="https://instagram.com/lu_buscariolo"><img src="https://img.shields.io/badge/INSTAGRAM-27520F?style=flat-square&logo=instagram&logoColor=95B427&labelColor=021D0C" alt="Instagram"></a>
   <a href="mailto:luanabuscariolo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-27520F?style=flat-square&logo=gmail&logoColor=95B427&labelColor=021D0C" alt="Email"></a>
